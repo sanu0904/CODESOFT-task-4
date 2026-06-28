@@ -5,7 +5,7 @@ movie_genres = [
 ["Drama"],
 ["Adventure","Comedy","Drama"],
 ["Action","Sci-Fi","Adventure"],
-["Drama","Comedy"],
+["Drama","Comedy"], 
 ["Drama","Romance"],
 ["Thriller","Crime","Drama"],
 ["Horror","Thriller"],
